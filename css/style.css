@@ -521,11 +521,6 @@ h2{
       margin-right: auto;
       margin-left: auto;
     }
-    .fatah{
-      margin-left: 6%;
-      font-size: 6pt;
-    }
-  }
   @media screen and (max-width: 768px) {
     .navbar{
       height: 8vh;
@@ -545,11 +540,11 @@ h2{
       margin-left: 0.2px;
     }
     .menu{
-      margin-left: 50%;
+      margin-left: 47%;
     }
     .menu a{
       font-size: 8pt;
-      padding: 5px 8px;
+      padding: 5px 7px;
       margin: 1.5px ;
     }
     .header{
@@ -567,7 +562,7 @@ h2{
     margin-top: 0%;
   }
   .header-texts{
-    font-size: 8pt;
+    font-size: 7pt;
     margin-top: -5%;
   }
   .card{
