@@ -260,8 +260,9 @@ li {
       font-size: 14pt;
       margin-left: 0.2px;
     }
-    .menu{
-      margin-left: 45%;
+    .navbar .menu{
+      margin-left: 47%;
+      margin-top: 2.5%;
     }
     .menu a{
       font-size: 8pt;
